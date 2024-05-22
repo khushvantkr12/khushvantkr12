@@ -19,10 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://www.linkedin.com/in/khushvant-kumar-53124a225" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
-</a>
-
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
 <a href="https://www.facebook.com/khushvant.kumar.188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/khushvant.kumar.188" height="30" width="40" /></a>
 <a href="https://www.instagram.com/khushvant_kumar12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/khushvant_kumar12/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/khushvant1132" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="" height="30" width="40" background="red" /></a>
