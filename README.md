@@ -37,7 +37,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushvantkr12&show_icons=true&locale=en" alt="khushvantkr12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushvantkr12&" alt="khushvantkr12" /></p>
-<img align="center" width="280px" height="210px" src="https://camo.githubusercontent.com/e81f15d7b378daa6b19c699061055c08888701c5a5d2e3ccae9577549dd67942/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f736974652f686f6d652f666f6f7465722d696c6c757374726174696f6e2e737667">
+<img src="https://camo.githubusercontent.com/e81f15d7b378daa6b19c699061055c08888701c5a5d2e3ccae9577549dd67942/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f736974652f686f6d652f666f6f7465722d696c6c757374726174696f6e2e737667">
 <img align="right" width="280px" height="210px" src="https://i.giphy.com/media/LMcB8XospGZO8UQq87/giphy.webp">
  ✍️ Random Dev Quote
 
