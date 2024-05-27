@@ -41,5 +41,3 @@
  ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<img align="right" width="280px" height="210px" src="https://i.giphy.com/media/LMcB8XospGZO8UQq87/giphy.webp">
