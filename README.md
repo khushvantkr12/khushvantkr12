@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **khushvantkumar132003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1py9LyyPCBtnbQjXxcg4qPeHJB3Y0UlZL/view?usp=drive_link](https://drive.google.com/file/d/1py9LyyPCBtnbQjXxcg4qPeHJB3Y0UlZL/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1py9LyyPCBtnbQjXxcg4qPeHJB3Y0UlZL/view?usp=drive_link](https://drive.google.com/file/d/1SJ85ulO-0NAC9UKJGASPEMZm7Te09Sm_/view?usp=drive_link)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushvantkr12" alt="khushvantkr12" /></a> </p>
 
