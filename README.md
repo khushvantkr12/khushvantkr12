@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **khushvantkumar132003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1py9LyyPCBtnbQjXxcg4qPeHJB3Y0UlZL/view?usp=drive_link](https://drive.google.com/file/d/1SJ85ulO-0NAC9UKJGASPEMZm7Te09Sm_/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1py9LyyPCBtnbQjXxcg4qPeHJB3Y0UlZL/view?usp=drive_link](https://drive.google.com/file/d/1Dw6tT_c5lvAwFtrkHASu43ISHRqJnzP-/view?usp=drive_link)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushvantkr12" alt="khushvantkr12" /></a> </p>
 
@@ -25,7 +25,7 @@
 <a href="https://www.facebook.com/khushvant.kumar.188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/khushvant.kumar.188" height="30" width="40" /></a>
 <a href="https://www.instagram.com/khushvant_kumar12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/khushvant_kumar12/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/khushvant1132" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="" height="30" width="40" background="pink" /></a>
-<a href="https://leetcode.com/u/khushvantkr22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/khushvantkr22/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/khushvantkr13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/khushvantkr22/" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/khushvantkumar12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/khushvantkumar12/" height="30" width="40" /></a>
 </p>
 
