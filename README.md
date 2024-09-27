@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=40&pause=1000&color=F736BF&background=FF234300&center=true&vCenter=true&random=true&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Khushvant kumar+👨‍💻"/>
 </h1>
-<h3 align="center">A passionate Full Stak Web Developer and DSA Enthusiastic..</h3>
+<h3 align="center">A passionate Full Stack Web Developer and DSA Enthusiastic..</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushvantkr12&label=Profile%20views&color=0e75b6&style=flat" alt="khushvantkr12" /> </p>
 
