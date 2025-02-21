@@ -9,7 +9,6 @@
   
 </h1>
 <h3 align="center">A passionate Full Stack Web Developer and DSA Enthusiastic..</h3>
-<img  alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushvantkr12&label=Profile%20views&color=0e75b6&style=flat" alt="khushvantkr12" /> </p>
 
 
