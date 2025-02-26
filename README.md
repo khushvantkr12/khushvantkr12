@@ -42,7 +42,7 @@
 ---
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushvantkr12&show_icons=true&locale=en" alt="khushvantkr12" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushvantkr12&show_icons=true&locale=en" alt="khushvantkr12" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushvantkr12&" alt="khushvantkr12" /></p>
 
