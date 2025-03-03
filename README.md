@@ -50,13 +50,6 @@
 
 <!--Contact Section--> 
 
-<!---div align="center">
-</div>
-<br/>
-<p align="center">
-  <img src="https://github.com/Abhishek5165/Abhishek5165/blob/main/git.avif"/>
-</p--->
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
