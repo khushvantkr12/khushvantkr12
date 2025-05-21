@@ -1,5 +1,8 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=40&pause=1000&color=F736BF&background=FF234300&center=true&vCenter=true&random=true&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Khushvant kumar+👨‍💻"/>
+<!-- <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=40&pause=1000&color=F736BF&background=FF234300&center=true&vCenter=true&random=true&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Khushvant kumar+👨‍💻"/> -->
+
+<h1 align="center">Hi 👋, I'm Khushvant Kumar</h1>
+
 
   <p align="center">
   <h5 align="center">Welcome to my github</h5>
